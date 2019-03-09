@@ -1,0 +1,12 @@
+C:\Users\AhMed\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.exe.config
+C:\Users\AhMed\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.exe
+C:\Users\AhMed\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.pdb
+C:\Users\AhMed\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.xml
+C:\Users\AhMed\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.Resources.resources
+C:\Users\AhMed\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbproj.GenerateResource.cache
+C:\Users\AhMed\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbproj.CoreCompileInputs.cache
+C:\Users\AhMed\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.exe
+C:\Users\AhMed\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.xml
+C:\Users\AhMed\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.pdb
+C:\Users\AhMed\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.Form1.resources
+C:\Users\AhMed\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbprojResolveAssemblyReference.cache
